@@ -1,22 +1,50 @@
-#body{
-    background-color: #E6E6E6;
-}
-h1{
-    font-family: 'Bangers', cursive;
-}
-
-#nav-bar-logo{
+/*h1{*/
+/*    font-family: 'Bangers', cursive;*/
+/*}*/
+#top-logo{
     height: 105px;
     width: 105px;
 }
 
-.dot {
-    height: 210px;
-    width: 210px;
-    border-radius: 50%;
-    display: inline-block;
-    border: solid 15px white;
+.logo{
+    height: 105px;
+    width: 105px;
 }
+.big{
+    height: 125px;
+    width: 125px;
+}
+.small{
+    height: 18px;
+    width: 18px;
+}
+.icon{
+    border-radius: 100%;
+    border: solid white 5px;
+    display: inline-block;
+
+
+}
+
+#top-title-text{
+    background-color: #0dcaf0;
+}
+
+/*#nav-bar-logo{*/
+/*    height: 105px;*/
+/*    width: 105px;*/
+/*}*/
+
+/*.small{*/
+/*    height: 18px ;*/
+/*    width: 18px;*/
+/*}*/
+
+/*.dot {*/
+/*    border-radius: 50%;*/
+/*    display: inline-block;*/
+/*    border: solid 15px white;*/
+/*}*/
 .red{
     background-color: #E6563B;
 }
