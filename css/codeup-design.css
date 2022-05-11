@@ -13,21 +13,20 @@
 .big{
     height: 125px;
     width: 125px;
+    border: solid white 10px;
 }
 .small{
     height: 18px;
     width: 18px;
 }
 .icon{
-    border-radius: 100%;
-    border: solid white 5px;
-    display: inline-block;
-
-
+    border-radius: 50%;
+    font-weight: bolder;
 }
 
-#top-title-text{
-    background-color: #0dcaf0;
+.custom-image{
+    border: solid #E6E6E6 5px ;
+    border-radius: 10px;
 }
 
 /*#nav-bar-logo{*/
